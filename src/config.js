@@ -7,9 +7,9 @@ export const BUSINESS = {
   tagline: 'Your City. Our Delivery.',
 
   // Carried over from the existing site. Replace if Go Deliver uses a different number.
-  whatsappNumber: '263775748233',     // digits only, country code first, no "+"
-  phoneTel: '+263775748233',          // used for the "Call us" button
-  phoneDisplay: '+26371 919 3830',
+  whatsappNumber: '263719193830',     // digits only, country code first, no "+"
+  phoneTel: '+263719193830',          // used for the "Call us" button
+  phoneDisplay: '+263719193830',
 
   // PLACEHOLDERS – replace with the real details
   email: 'evstech.zw@gmail.com',
